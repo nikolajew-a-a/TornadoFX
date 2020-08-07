@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane prefHeight="146.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets bottom="20" left="20" right="20" top="20" />
+    </padding>
+   <bottom>
+        <VBox alignment="CENTER" spacing="10" BorderPane.alignment="CENTER">
+
+
+
+         <HBox alignment="CENTER" prefHeight="30.0" prefWidth="200.0">
+             <TextField fx:id="inputTextLabelA" prefWidth="50.0" />
+             <Label text=" x² + " />
+             <TextField fx:id="inputTextLabelB" prefWidth="50.0" />
+             <Label text=" x + " />
+             <TextField fx:id="inputTextLabelC" prefWidth="50.0" />
+             <Label text=" = 0" />
+        </HBox>
+
+            <Button onAction="#increment" text="Нажмите кнопку, чтобы решить уравнение" />
+
+            <Label fx:id="counterLabel">
+                <font>
+                    <Font size="20" />
+                </font>
+            </Label>
+         <LineChart fx:id="graphLabel">
+           <xAxis>
+             <NumberAxis side="BOTTOM" />
+           </xAxis>
+           <yAxis>
+             <NumberAxis side="LEFT" />
+           </yAxis>
+         </LineChart>
+            
+        </VBox>
+   </bottom>
+</BorderPane>

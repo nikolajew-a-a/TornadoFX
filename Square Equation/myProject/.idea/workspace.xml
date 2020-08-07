@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lastInterface" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1beba19-492e-4df0-8bce-e71a862c743f" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tornadofx-empty-project" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dPNigzZWsK1PZ9U9b8JqLpLeBU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../areaTriangle/javafx-sdk-14.0.1/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.example.demo.app" />
+      <recent name="com.example.demo.resourses" />
+      <recent name="no.tornado.app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\79218\Desktop\Temp\lastInterface\src\main\kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\79218\Desktop\Temp\lastInterface\src\main" />
+      <recent name="C:\Users\79218\Desktop\Temp\lastInterface\src\main\kotlin\resources" />
+      <recent name="C:\Users\79218\Desktop\Temp\lastInterface\src\main\kotlin" />
+      <recent name="C:\Users\79218\Desktop\Temp\lastInterface\src\main\kotlin\com\example\demo\app\resources" />
+      <recent name="C:\Users\79218\Desktop\Temp\lastInterface\src\main\kotlin\com\example\demo\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TornadoFX.CounterView (3)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tornadofx-empty-maven-project" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterView (1)" type="TORNADOFX_RUNCONFIGURATION" factoryName="TornadoFX Configuration Factory" temporary="true" run-type="View" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="tornadofx.App" />
+      <module name="myProject" />
+      <option name="VIEW_CLASS_NAME" value="CounterView" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterView (2)" type="TORNADOFX_RUNCONFIGURATION" factoryName="TornadoFX Configuration Factory" temporary="true" run-type="View" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="tornadofx.App" />
+      <module name="myProject" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\79218\IdeaProjects\areaTriangle\javafx-sdk-14.0.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="VIEW_CLASS_NAME" value="CounterView" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterView (3)" type="TORNADOFX_RUNCONFIGURATION" factoryName="TornadoFX Configuration Factory" temporary="true" run-type="View" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="tornadofx.App" />
+      <module name="myProject" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\79218\IdeaProjects\areaTriangle\javafx-sdk-14.0.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="VIEW_CLASS_NAME" value="CounterView" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterView" type="TORNADOFX_RUNCONFIGURATION" factoryName="TornadoFX Configuration Factory" temporary="true" run-type="View" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="tornadofx.App" />
+      <module name="myProject" />
+      <option name="VIEW_CLASS_NAME" value="CounterView" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="TORNADOFX_RUNCONFIGURATION" factoryName="TornadoFX Configuration Factory" run-type="App" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="MyApp" />
+      <module name="myProject" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\79218\Desktop\Temp\javafx-sdk-14.0.1\lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TORNADOFX_RUNCONFIGURATION" factoryName="TornadoFX Configuration Factory" run-type="App" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="no.tornado.MyApp" />
+      <module name="myProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TornadoFX.MyApp" />
+      <item itemvalue="TornadoFX.CounterView" />
+      <item itemvalue="TornadoFX.CounterView (1)" />
+      <item itemvalue="TornadoFX.CounterView (2)" />
+      <item itemvalue="TornadoFX.CounterView (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TornadoFX.CounterView (3)" />
+        <item itemvalue="TornadoFX.CounterView (2)" />
+        <item itemvalue="TornadoFX.CounterView (1)" />
+        <item itemvalue="TornadoFX.CounterView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1beba19-492e-4df0-8bce-e71a862c743f" name="Default" comment="" />
+      <created>1461491126794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461491126794</updated>
+      <workItem from="1461491128150" duration="406000" />
+      <workItem from="1461491616397" duration="1235000" />
+      <workItem from="1463387474407" duration="65000" />
+      <workItem from="1463390585107" duration="7000" />
+      <workItem from="1463390597108" duration="18000" />
+      <workItem from="1463390618778" duration="4097000" />
+      <workItem from="1469261506898" duration="97000" />
+      <workItem from="1469264650196" duration="45000" />
+      <workItem from="1469952755955" duration="27000" />
+      <workItem from="1470062766855" duration="22000" />
+      <workItem from="1470134223046" duration="16000" />
+      <workItem from="1470134243170" duration="7000" />
+      <workItem from="1470259440262" duration="131000" />
+      <workItem from="1470260634346" duration="20000" />
+      <workItem from="1474312028209" duration="25000" />
+      <workItem from="1477070550332" duration="23000" />
+      <workItem from="1477071025419" duration="15000" />
+      <workItem from="1477071114667" duration="10000" />
+      <workItem from="1480015095386" duration="30000" />
+      <workItem from="1480525154846" duration="2000" />
+      <workItem from="1482577731025" duration="26000" />
+      <workItem from="1487517904788" duration="15000" />
+      <workItem from="1488638731825" duration="18000" />
+      <workItem from="1509566734376" duration="29000" />
+      <workItem from="1509566963437" duration="19000" />
+      <workItem from="1513798663816" duration="19000" />
+      <workItem from="1513798853679" duration="38000" />
+      <workItem from="1513798964802" duration="21000" />
+      <workItem from="1517468649479" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6498000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1592335180145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1592335180145" />
+    <state x="82" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596781494608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="82" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596781494608" />
+    <state x="552" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592847673451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1592847673451" />
+    <state x="354" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1592751452321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="354" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592751452321" />
+    <state x="462" y="16" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1592336158858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="16" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592336158858" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596781687594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596781687594" />
+    <state width="1323" height="119" key="GridCell.Tab.0.bottom" timestamp="1596780916269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596780916269" />
+    <state width="1323" height="119" key="GridCell.Tab.0.center" timestamp="1596780916269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596780916269" />
+    <state width="1323" height="119" key="GridCell.Tab.0.left" timestamp="1596780916269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596780916269" />
+    <state width="1323" height="119" key="GridCell.Tab.0.right" timestamp="1596780916269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596780916269" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1592729318818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1592729318818" />
+    <state x="104" y="0" key="SettingsEditor" timestamp="1596781692398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="104" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596781692398" />
+    <state x="428" y="233" key="classpath-attribute-editor" timestamp="1592751632919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="428" y="233" key="classpath-attribute-editor/0.0.1366.728@0.0.1366.728" timestamp="1592751632919" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592846318347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592846318347" />
+    <state x="65" y="88" key="new project wizard" timestamp="1592829858198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592829858198" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592747738068">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592747738068" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>

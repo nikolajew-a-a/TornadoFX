@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: MyApp
+Class-Path: C:\Users\79218\IdeaProjects\Инкремент с интер
+ фейсом\lastInterface\src\main\kotlin
+

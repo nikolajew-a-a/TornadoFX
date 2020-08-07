@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Maven: javax.json:javax.json-api:1.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/json/javax.json-api/1.1.2/javax.json-api-1.1.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../areaTriangle/javafx-sdk-14.0.1/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/json/javax.json-api/1.1.2/javax.json-api-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/json/javax.json-api/1.1.2/javax.json-api-1.1.2-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../javafx-sdk-14.0.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../areaTriangle/javafx-sdk-14.0.1/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../areaTriangle/javafx-sdk-14.0.1/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../areaTriangle/javafx-sdk-14.0.1/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../javafx-sdk-14.0.1/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
